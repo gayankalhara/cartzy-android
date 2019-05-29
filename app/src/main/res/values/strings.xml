@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Cartzy</string>
+    <!--firebase facebook app id-->
+    <string name="facebook_application_id" translatable="false">172824999823894</string>
+    <string name="logout">signout</string>
+    <string name="title_activity_activity_user_profile">ActivityUserProfile</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="about_text">Cartzy
+    \n\nDevelopers:
+        \nGayan Kalhara
+        \nHasitha Jayasinghe
+        \nUdesh Hewagama
+        \nVishva Ratnayake
+    </string>
+    <string name="log_out">Log Out</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="my_account">My Account</string>
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="title_activity_locator_map">Map</string>
+    <string name="title_activity_shop_locater">shopLocater</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_lists">My Lists</string>
+    <string name="delete_account">Delete account</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="scan">Scan</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_logo">Logo</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <string name="settings_header_general">General</string>
+    <string name="settings_header_others">Others</string>
+    <string name="settings_header_about">About</string>
+    <string name="settings_header_notifications">Notification</string>
+
+    <string name="settings_notifications_reviews">Reviews</string>
+    <string name="settings_notifications_likes">Likes</string>
+    <string name="settings_notifications_comments">Comments</string>
+    <string name="settings_notifications_messages">Private messages</string>
+    <string name="settings_notifications_comment_reply">Reply to comment</string>
+
+    <string name="settings_version">Version</string>
+    <string name="settings_logout">Log out</string>
+    <string name="settings_copyright_info">Copyright info</string>
+    <string name="settings_contact_us">Contact us</string>
+    <string name="settings_contact_us_summary">Report a problem</string>
+    <string name="settings_web_site">Our website</string>
+    <string name="settings_view_blocked_list">View blocked list</string>
+    <string name="settings_deactivate_account">Deactivate account</string>
+    <string name="settings_edit_account">Signature for your secrets</string>
+    <string name="settings_thanks">Acknowledgements</string>
+    <string name="settings_terms">Terms of use</string>
+    <string name="settings_change_password">Change password</string>
+    <string name="settings_services">Services</string>
+    <string name="settings_notifications">Push notifications</string>
+    <string name="settings_services_summary">Connect with social network accounts</string>
+    <string name="settings_account_deactivation">If you proceed deactivate your account, you can never go back. If you want to come back - you\'ll have to create a new account.</string>
+
+    <string name="settings_file">account</string>
+    <string name="settings_account_id">account_id</string>
+    <string name="settings_account_username">account_username</string>
+    <string name="settings_account_access_token">access_token</string>
+
+    <string name="settings_account_allow_messages_gcm">allow_messages_gcm</string>
+    <string name="settings_account_allow_comments_gcm">allow_comments_gcm</string>
+    <string name="settings_account_allow_comments_reply_gcm">allow_comments_reply_gcm</string>
+
+    <string name="settings_account_photo_url">account_photo_url</string>
+    <string name="settings_account_cover_url">account_cover_url</string>
+    <string name="settings_account_fullname">account_fullname</string>
+
+    <string name="settings_account_lat">settings_account_lat</string>
+    <string name="settings_account_lng">settings_account_lng</string>
+
+    <string name="settings_allow_messages">Receive messages</string>
+    <string name="settings_allow_messages_summary">You will be able to receive Direct Messages from any user.</string>
+    <string name="app_version">1.0</string>
+
+    <string name="dialog">Are you sure?</string>
+    <string name="send">ok</string>
+    <string name="cancel">cancel</string>
+
+</resources>

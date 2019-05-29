@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/group1" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_my_lists"
+            android:checked="true"
+            android:title="@string/my_lists"
+            android:icon="@drawable/ic_list_24dp"/>
+        <item
+            android:id="@+id/nav_people"
+            android:checked="true"
+            android:title="People"
+            app:actionLayout="@layout/notification_count"
+            android:icon="@drawable/ic_user"/>
+        <item
+            android:id="@+id/nav_recent_activity"
+            android:checked="true"
+            android:title="Recent Activity"
+            android:icon="@drawable/ic_history_24dp"/>
+        <item
+            android:id="@+id/nav_favorites"
+            android:checked="true"
+            android:title="Favorite Places"
+            android:icon="@drawable/ic_store_24dp"/>
+        <item
+            android:id="@+id/nav_bundles"
+            android:checked="true"
+            android:title="Bundles"
+            android:icon="@drawable/ic_bundle_24dp"/>
+        <item
+            android:id="@+id/nav_shop_list"
+            android:checked="true"
+            android:title="Shops"
+            android:icon="@drawable/ic_store_mall_directory_black_24dp"/>
+        <item
+            android:id="@+id/nav_receipts"
+            android:checked="true"
+            android:title="Receipts"
+            android:icon="@drawable/ic_receipt_24dp"/>
+        <item
+            android:id="@+id/nav_trash"
+            android:checked="true"
+            android:title="Trash"
+            android:icon="@drawable/ic_delete_24dp"/>
+        <item
+            android:id="@+id/nav_my_contributions"
+            android:checked="true"
+            android:title="My Contributions"
+            android:icon="@drawable/ic_contributions_24dp"/>
+    </group>
+
+            <group android:id="@+id/group2"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_settings"
+                    android:title="Settings"
+                    android:icon="@drawable/ic_settings_24dp"/>
+            </group>
+
+
+    <!--New Item-->
+    <!--Promo-->
+
+    <!--Clothing-->
+    <!--Shoes-->
+    <!--Watches-->
+    <!--Acessories-->
+    <!--Bags-->
+
+</menu>

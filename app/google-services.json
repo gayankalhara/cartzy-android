@@ -1,0 +1,103 @@
+{
+  "project_info": {
+    "project_number": "897687358005",
+    "firebase_url": "https://cartzy-b1402.firebaseio.com",
+    "project_id": "cartzy-b1402",
+    "storage_bucket": "cartzy-b1402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897687358005:android:646d4e05b6c55963",
+        "android_client_info": {
+          "package_name": "cartzy.iflexicon.com.cartzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897687358005-evcbpd0gsfanpjt62e1nopnvhq0tvc27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cartzy.iflexicon.com.cartzy",
+            "certificate_hash": "0FBA537E5D445DD5C1C74C48C8D4DBD622FFDB7A"
+          }
+        },
+        {
+          "client_id": "897687358005-jnmp827g3er2c10k3cusn7hdu65mpkt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cartzy.iflexicon.com.cartzy",
+            "certificate_hash": "C29F5F62B48493806443271FCFB6542CA462764E"
+          }
+        },
+        {
+          "client_id": "897687358005-jo638gn28760rdibaab9198i252c815s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cartzy.iflexicon.com.cartzy",
+            "certificate_hash": "28E49FFC0DA5C64B1D46F98AE90A597CCE4D33AE"
+          }
+        },
+        {
+          "client_id": "897687358005-onhovcq9spprmoipv6g4v0mpc658k6e5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cartzy.iflexicon.com.cartzy",
+            "certificate_hash": "67573C6C936C887832BA86275E1C9F04E6631426"
+          }
+        },
+        {
+          "client_id": "897687358005-gqok18su1vl8nu664gm0j1bauc5vbqj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cartzy.iflexicon.com.cartzy",
+            "certificate_hash": "12E252CD35FD3EC0320DDA0393C100E6DCAC60F0"
+          }
+        },
+        {
+          "client_id": "897687358005-7e9pnjjqj38qdkerp95v14ekqi4uo429.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cartzy.iflexicon.com.cartzy",
+            "certificate_hash": "9BE66CACA856C36D2C7B9642AE09548658C07C72"
+          }
+        },
+        {
+          "client_id": "897687358005-fjbjpd2g3d9d786f98r5uc68cc29daa0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cartzy.iflexicon.com.cartzy",
+            "certificate_hash": "EFCBCAB83A248D6829CA4672BED72732B536BF1B"
+          }
+        },
+        {
+          "client_id": "897687358005-f6ur6893vvnlps8n803vmeb094q5hjl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD82-uu0hGDU7EKIweXMM2B6JVs1k843KU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897687358005-f6ur6893vvnlps8n803vmeb094q5hjl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
